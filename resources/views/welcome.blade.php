@@ -4,11 +4,12 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="{{ config('fgc.meta.keywords')}}">
+        <meta name="description" content="{{ config('fgc.meta.description')}}">
+        <meta name="author" content="{{ config('fgc.meta.author')}}">
         <title>Felipe Guzman</title>
         <link href="{{asset('css/app.css')}}" rel="stylesheet">
         <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css')}}">
-
-
 
     </head>
     <body>
@@ -17,7 +18,7 @@
                 <header>
                 <span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
                 <h1>Felipe Guzmán</h1>
-                <p>Junior Developer</p>
+                <p>Web Developer</p>
                 </header>
                 <footer>
                     <ul class="icons">
