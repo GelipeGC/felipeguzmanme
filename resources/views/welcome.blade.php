@@ -26,7 +26,7 @@
         <div id="wrapper">
             <section id="main">
                 <header>
-                <span class="avatar"><img src="images/avatar.jpg" alt="" /></span>
+                <span class="avatar"><img src="images/felipe.jpg" alt="" /></span>
                 <h1>Felipe Guzmán</h1>
                 <p>Web Developer</p>
                 </header>
