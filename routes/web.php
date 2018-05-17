@@ -15,4 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/home', function() {
+    return view('welcome/index');
+});
+Route::get('/cv', function() {
+    return view('curriculum/index');
+});
 
