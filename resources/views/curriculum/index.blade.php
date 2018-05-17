@@ -362,7 +362,7 @@
               <div class="col-md-12">
                 <address>
                   <strong>Dirección</strong>
-                  <br> Pedro Loza #480.
+                  <br> Pedro Loza.
                   <br> Guadalajara, Jalisco.
                 </address>
                 <address>
