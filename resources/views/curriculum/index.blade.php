@@ -39,7 +39,7 @@
       <div class="left-col-block blocks">
         <header class="header">
           <div class="content text-center">
-            <h1>Hola, me llamo Felipe Guzmán</h1>
+            <h1>Felipe Guzmán</h1>
 
             <p class="lead">Web Developer</p>
 
