@@ -218,19 +218,6 @@
                     </div>
                     <!-- .progress -->
                   </div>
-                  <!-- /.skill-progress -->
-                  <div class="progress-item">
-                    <span class="progress-title">Go (Golang) </span>
-
-                    <div class="progress">
-                      <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 15%;">
-                        <span class="progress-percent"> 15%</span>
-                      </div>
-                    </div>
-                    <!-- .progress -->
-                  </div>
-                  <!-- .skill-progress -->
-
                 </div>
                 <!-- /.progress-wrapper -->
               </div>
