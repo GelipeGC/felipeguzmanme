@@ -241,7 +241,18 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="content-item">
-                  <small>Julio 2017-Actual</small>
+                  <small>Junio 2018-Actual</small>
+                  <h3>Web Developer</h3>
+                  <h4>Estrasol</h4>
+                  <p>Strategic Bussiness Systems</p>
+                  <p> Desarrollo de aplicaciones web, e-commerce para tienda departamental, implementando tecnologías como #php,#laravel,#angular.
+                      Conexión con servicios webs de terceros, como pasarelas de pagos con paypal, openpay, creación de cron jobs, manejo de consultas sql, encargado del desarrollo backend como frontend.
+                    <a href="https://surtidoradepartamental.com/">Surtidora Departamental</a>
+                    </p>
+                    <p>Guadalajara, Jalisco.</p>
+                </div>
+                <div class="content-item">
+                  <small>Julio 2017-Junio 2018</small>
                   <h3>Web Developer</h3>
                   <h4>Lightcone Group</h4>
                   <p> Desarrollo y mantenimiento de diferentes módulos para una aplicación facturación en línea e implementación
